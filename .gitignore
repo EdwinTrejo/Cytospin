@@ -1,0 +1,8 @@
+# SPICE library files
+*.LIB
+
+#LTSpiceXVII produced output file
+*.raw
+*.net
+*.log
+*.strobe
